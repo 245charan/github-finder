@@ -8,7 +8,6 @@ function About() {
       <p className="text-lg text-gray-400">
         Version <span className="text-white">1.0.0</span>
       </p>
-      {process.env.REACT_APP_GITHUB_TOKEN}
     </>
   );
 }
